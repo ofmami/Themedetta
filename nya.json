@@ -57,8 +57,8 @@
             "#fafafa"
         ],
         "BACKGROUND_ACCENT": [
-            "#525252",
-            "#cacaca"
+            "#e1c1e1",
+            "#e1c1e1"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#525252",
@@ -85,8 +85,8 @@
             "#fafafa"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#464646",
-            "#d6d6d6"
+            "#e1c1e13a",
+            "#e1c1e13a"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
             "#e1c1e1",
@@ -173,8 +173,8 @@
             "#e1c1e13a"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#6a6a6a",
-            "#b2b2b2"
+            "#e1c1e1",
+            "#e1c1e1"
         ]
     },
     "rawColors": {
